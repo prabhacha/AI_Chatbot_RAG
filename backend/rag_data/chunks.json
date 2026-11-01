@@ -1,0 +1,26 @@
+[
+  {
+    "document_id": "832c77960cfc",
+    "filename": "Math Functions.pdf",
+    "chunk_number": 1,
+    "text": "TechnoSignia\n \nTechnoSignia\n \nTraining\n \nInstitute\n \n \n \nMath\n \nFunctions\n \n \nPython\n \nmath\n \nModule\n \nPython\n \nhas\n \na\n \nbuilt-in\n \nmodule\n \nthat\n \nyou\n \ncan\n \nuse\n \nfor\n \nmathematical\n \ntasks.\n \nThe\n \nmath\n \nmodule\n \nhas\n \na\n \nset\n \nof\n \nmethods\n \nand\n \nconstants.\n \n1)\nceil():\n \nThe\n \nmath.ceil()\n \nmethod\n \nrounds\n \na\n \nnumber\n \nUP\n \nto\n \nthe\n \nnearest\n \ninteger,\n \nif\n \nnecessary,\n \nand\n \nreturns\n \nthe\n \nresult.\n \n \nimport\n \nmath\n \n \nprint\n(math.ceil(\n5.3\n))\n \n \n2)cos()\n \n:\nThe\n \nmath.cos()\n \nmethod\n \nreturns\n \nthe\n \ncosine\n \nof\n \na\n \nnumber.\n \n \nimport\n \nmath\n \n \nprint\n \n(math.cos(\n10\n))\n \n \n3)exp():The\n \nmath.exp()\n \nmethod\n \nreturns\n \nE\n \nraised\n \nto\n \nthe\n \npower\n \nof\n \nx\n \n(E\nx\n).\n \n'E'\n \nis\n \nthe\n \nbase\n \nof\n \nthe\n \nnatural\n \nsystem\n \nof\n \nlogarithms\n \n(approximately\n \n2.718282)\n \nand\n \nx\n \nis\n \nthe\n \nnumber\n \npassed\n \nto\n \nit.\n \nimport\n \nmath\n \n \nprint\n(math.exp(\n65\n))\n \n \n4)factorial()\n \n:\nThe\n \nmath.factorial()\n \nmethod\n \nreturns\n \nthe\n \nfactorial\n \nof\n \na\n \nnumber.\n \n \nimpo"
+  },
+  {
+    "document_id": "832c77960cfc",
+    "filename": "Math Functions.pdf",
+    "chunk_number": 2,
+    "text": "import\n \nmath\n \n \nprint\n(math.exp(\n65\n))\n \n \n4)factorial()\n \n:\nThe\n \nmath.factorial()\n \nmethod\n \nreturns\n \nthe\n \nfactorial\n \nof\n \na\n \nnumber.\n \n \nimport\n \nmath\n \n \nprint\n(math.factorial(\n6\n))\n \n \n5)fmod()\n \n:The\n \nmath.fmod()\n \nmethod\n \nreturns\n \nthe\n \nremainder\n \n(modulo)\n \nof\n \nx/y.\n \nimport\n \nmath\n \n \nprint\n(math.fmod(\n15\n,\n \n6\n))\n \n \n6)fsum():\nThe\n \nmath.fsum()\n \nmethod\n \nreturns\n \nthe\n \nsum\n \nof\n \nall\n \nitems\n \nin\n \nany\n \niterable\n \n(tuples,\n \narrays,\n \nlists,\n \netc.).\n \n \nimport\n \nmath\n \n \n \nprint\n(math.fsum([\n1\n,\n \n2\n,\n \n3\n,\n \n4\n,\n \n5\n]))\n \n \nTechnoSignia\n \n7)gcd():The\n \nmath.gcd()\n \nmethod\n \nreturns\n \nthe\n \ngreatest\n \ncommon\n \ndivisor\n \nof\n \nthe\n \ntwo\n \nintegers\n \nint1\n \nand\n \nint2\n.\n \nGCD\n \nis\n \nthe\n \nlargest\n \ncommon\n \ndivisor\n \nthat\n \ndivides\n \nthe\n \nnumbers\n \nwithout\n \na\n \nremainder.\n \nGCD\n \nis\n \nalso\n \nknown\n \nas\n \nthe\n \nhighest\n \ncommon\n \nfactor\n \n(HCF).\n \nimport\n \nmath\n \nprint\n \n(math.gcd(\n12\n,\n \n36\n))\n \n \n8)log():\nThe\n \nmath.log()\n \nmethod\n \nreturns\n \nthe\n \nnatural\n \nlo"
+  },
+  {
+    "document_id": "832c77960cfc",
+    "filename": "Math Functions.pdf",
+    "chunk_number": 3,
+    "text": "est\n \ncommon\n \nfactor\n \n(HCF).\n \nimport\n \nmath\n \nprint\n \n(math.gcd(\n12\n,\n \n36\n))\n \n \n8)log():\nThe\n \nmath.log()\n \nmethod\n \nreturns\n \nthe\n \nnatural\n \nlogarithm\n \nof\n \na\n \nnumber,\n \nor\n \nthe\n \nlogarithm\n \nof\n \nnumber\n \nto\n \nbase.\n \n \nimport\n \nmath\n \nprint\n(math.log(\n2\n))\n \n \n9)log2()\n \n:\nThe\n \nmath.log2()\n \nmethod\n \nreturns\n \nthe\n \nbase-2\n \nlogarithm\n \nof\n \na\n \nnumber.\n \n \nimport\n \nmath\n \nprint\n(math.log2(\n2\n))\n \n \n10)log10():\nThe\n \nmath.log10()\n \nmethod\n \nreturns\n \nthe\n \nbase-10\n \nlogarithm\n \nof\n \na\n \nnumber.\n \n \nimport\n \nmath\n \n \nprint\n(math.log10(\n2\n))\n \n \n11)math.pow():\n \nThe\n \nmath.pow()\n \nmethod\n \nreturns\n \nthe\n \nvalue\n \nof\n \nx\n \nraised\n \nto\n \npower\n \ny.\n \nIf\n \nx\n \nis\n \nnegative\n \nand\n \ny\n \nis\n \nnot\n \nan\n \ninteger,\n \nit\n \nreturns\n \na\n \nValueError.\n \nThis\n \nmethod\n \nconverts\n \nboth\n \narguments\n \ninto\n \na\n \nfloat.\n \n \nimport\n \nmath\n \n \nprint\n(math.\npow\n(\n9\n,\n \n3\n))\n \n \n12)prod():\nThe\n \nmath.prod()\n \nmethod\n \nreturns\n \nthe\n \nproduct\n \nof\n \nthe\n \nelements\n \nfrom\n \nthe\n \ngiven\n \niterable"
+  },
+  {
+    "document_id": "832c77960cfc",
+    "filename": "Math Functions.pdf",
+    "chunk_number": 4,
+    "text": "rint\n(math.\npow\n(\n9\n,\n \n3\n))\n \n \n12)prod():\nThe\n \nmath.prod()\n \nmethod\n \nreturns\n \nthe\n \nproduct\n \nof\n \nthe\n \nelements\n \nfrom\n \nthe\n \ngiven\n \niterable.\n \n \nimport\n \nmath\n \n \nsequence\n \n=\n \n(\n2\n,\n \n2\n,\n \n2\n)\n \nprint\n(math.prod(sequence))\n \n \n13)math.sin():\nThe\n \nmath.sin()\n \nmethod\n \nreturns\n \nthe\n \nsine\n \nof\n \na\n \nnumber.\n \n \nTechnoSignia\n \nimport\n \nmath\n \n \nprint\n \n(math.sin(\n10\n))\n \n \n14)tan():The\n \nmath.tan()\n \nmethod\n \nreturns\n \nthe\n \ntangent\n \nof\n \na\n \nnumber.\n \nimport\n \nmath\n \n \nprint\n \n(math.tan(\n90\n))\n \n \n15)math.sqrt()\n \n:\n \nimport\n \nmath\n \n \nprint\n \n(math.sqrt(\n9\n))\n \n \nThe\n \nmath.sqrt()\n \nmethod\n \nreturns\n \nthe\n \nsquare\n \nroot\n \nof\n \na\n \nnumber.\n \n \n16)trunc():\nThe\n \nmath.trunc()\n \nmethod\n \nreturns\n \nthe\n \ntruncated\n \ninteger\n \npart\n \nof\n \na\n \nnumber.\n \n \nimport\n \nmath\n \n \nprint\n(math.trunc(\n8.32\n))"
+  }
+]
